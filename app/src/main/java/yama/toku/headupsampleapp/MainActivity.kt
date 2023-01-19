@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         private const val TAG = "MainActivity"
+        // commit3
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
